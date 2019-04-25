@@ -2,7 +2,7 @@
 
 #### A program that takes a word and returns the Scrabble score for that word
 
-#### By **Tessa Sullivan and **
+#### By **Tessa Sullivan and Marissa Perry**
 
 ## Description
 
@@ -25,13 +25,7 @@ Q, Z                               10
 | User enters string with special character| Input: '| Output: Error message and user prompted to enter a word|
 | User enters single letter word| Input: A| Output: 1|
 | User enters word which contains some of the above letters| Input: the | Output: 6|
-| User enters word which contains some of the above letters| Input: quick | Output: 21|
-| User enters word which contains some of the above letters| Input: brown | Output: 10|
-| User enters word which contains some of the above letters| Input: fox | Output: 13|
-| User enters word which contains some of the above letters| Input: jumps | Output: |
-| User enters word which contains some of the above letters| Input: over | Output: |
-| User enters word which contains some of the above letters| Input: lazy | Output: |
-| User enters word which contains some of the above letters| Input: dog | Output: |
+
 | User enters word which is longer than the limit 16| Input: supercalifragistic | Output: Error message and user prompted to enter a new word|
 
 
@@ -39,7 +33,8 @@ Q, Z                               10
 
 ## Setup/Installation Requirements
 
-Currently does not include Program.cs so it cannot be run directly from the command line.  Tests can be run by doing the following:
+Currently includes Program.cs so it can be run directly from the command line.  
+Also Tests can be run by doing the following:
 1. Install .Net 2.2 
     * Go to https://dotnet.microsoft.com/download/dotnet-core/2.2 and download the appropriate installer for your OS.
 2. cd to repo directory
@@ -55,7 +50,7 @@ Currently does not include Program.cs so it cannot be run directly from the comm
 
 ## Support and contact details
 
-_Contact Tessa Sullivan @ tessa.sullivan@gmail.com_
+_Contact Tessa Sullivan @ tessa.sullivan@gmail.com or Marissa Perry @ ohthatmarissa@gmail.com_
 
 ### License
 
